@@ -171,6 +171,10 @@
         {
             "url": "https://raw.iqiq.io/2hacc/TVBox/main/h/h.json",
             "name": "自用2哈"
-        }       
+        },
+        {
+            "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/adult.json",
+            "name": "自用蜂蜜"
+        }
         ]
 }
