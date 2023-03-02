@@ -498,7 +498,7 @@
 		"channels": [{
 			"name": "redirect",
 			"urls": [
-				"proxy://do=live&type=txt&ext=https://raw.iqiq.io/80947108/jiekou/main/live.txt"
+				"proxy://do=live&type=txt&ext=https://raw.iqiq.io/80947108/jiekou/main/iptv18.txt"
 			]
 		}]
 	}],
