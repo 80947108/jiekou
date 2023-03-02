@@ -175,6 +175,10 @@
         {
             "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/adult.json",
             "name": "自用蜂蜜"
-        }
+        },
+        {
+            "url": "https://raw.iqiq.io/80947108/jiekou/main/jiekou.json",
+            "name": "自用"
+        }        
         ]
 }
