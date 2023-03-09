@@ -2,7 +2,7 @@
 "sites": [
 		{
 			"key": "小苹果",
-			"name": "[默认]",
+			"name": "小苹果",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"searchable": 1,
