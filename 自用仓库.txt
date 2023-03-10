@@ -85,7 +85,7 @@
             "name": "🐹吾爱线路"
         },          
         {
-            "url": "http://111.67.196.181/mtv/meow.txt",
+            "url": "http://miaotvs.cn/meow",
             "name": "🐹喵影视线路"
         },
         {
@@ -125,11 +125,11 @@
             "name": "💎佰欣园线路"
         },
         {
-            "url": "https://raw.fastgit.org/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "url": "https://raw.fastgit.org/kebedd69/TVbox-interface/main/甜蜜.json",
             "name": "💎甜蜜线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
             "name": "💎一木线路"
         },        
         {
@@ -145,11 +145,7 @@
             "name": "💎zzz1线路"
         },
         {
-            "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
-            "name": "💎小马线路"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
             "name": "💎二哈线路"
         },
         {
@@ -170,19 +166,19 @@
         },
         {
             "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/vip.json",
-            "name": "自用张弘"
+            "name": "自用张弘H"
         },
         {
             "url": "https://raw.iqiq.io/2hacc/TVBox/main/h/h.json",
-            "name": "自用2哈"
+            "name": "自用2哈H"
         },
         {
             "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/adult.json",
-            "name": "自用蜂蜜"
+            "name": "自用蜂蜜H"
         },
         {
             "url": "https://raw.iqiq.io/80947108/jiekou/main/jiekou.json",
-            "name": "自用"
+            "name": "自用H"
         }        
         ]
 }
