@@ -1,17 +1,17 @@
 台深夜不穩定,#genre#
-彩虹e台,P2p://generationnexxxt.com:19806/1cc806a1cd934ef59217cbe816c38018
-彩虹电影台,P2p://generationnexxxt.com:19806/ede503079f114bc6bf365846ba424990
-LOOK TV,P2p://generationnexxxt.com:19806/20398d4884a6475bb6a1520411b50b54
-潘朵啦玩美台,P2p://generationnexxxt.com:19806/bc43c724e539490691c8f7e1d3db27e6
-惊艳成人电影台,P2p://generationnexxxt.com:19806/ca147220763d40dd8cb24116cc3fcb7e
-松视1台,P2p://generationnexxxt.com:19806/63b6d349ebc247618a07b53deb0c00b0
-松视2台,P2p://generationnexxxt.com:19806/69d7816ce9234d5a82bd93992a85cad8
-PLAYBOY,P2p://generationnexxxt.com:19806/58088a697825496fa8e7fa048f7ee6ff
-香蕉台,P2p://generationnexxxt.com:19806/f53ee5ccaf464f418f32ac1feffac1dd
-松视3台,P2p://generationnexxxt.com:19806/90c8cadbc11f459380c04480de7630c3
-JStar极限台,P2p://generationnexxxt.com:19806/761b412082534116b4a63d46130ea3d4
-HAPPY,P2p://generationnexxxt.com:19806/276ad3db2b6746559d60eded6e93bec5
-K,P2p://generationnexxxt.com:19806/a7b60259e9e3451bab5fd0905b4862a6
+彩虹e台,mitv://generationnexxxt.com:19806/2a5b154749ab46eea144a4e0a103cae5
+彩虹电影台,mitv://generationnexxxt.com:19806/318295ce90604574a21320ae8b076450
+LOOK TV,mitv://generationnexxxt.com:19806/68e430cb813f400ab868521537373260
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/4944e264e72043a99f8d8287fe4aaeb5
+惊艳成人电影台,mitv://generationnexxxt.com:19806/aa0d60f30ec842f6b1c23b9b8a71a73b
+松视1台,mitv://generationnexxxt.com:19806/8e78c9edb8aa44a09a8bc670faa1423c
+松视2台,mitv://generationnexxxt.com:19806/9a09d912b23f4f17b604a9cc6899bdef
+PLAYBOY,mitv://generationnexxxt.com:19806/4deebdcb3307450689acd074dca6eb11
+香蕉台,mitv://generationnexxxt.com:19806/e4a6c5085305423f8585eafc6e5b4b06
+松视3台,mitv://generationnexxxt.com:19806/45810577b9ea40f8b98ddcb87ed459c7
+JStar极限台,mitv://generationnexxxt.com:19806/f05ed9c0b0db4acb834117168861b364
+HAPPY,mitv://generationnexxxt.com:19806/621bba9e74ba4b49be758c0208929195
+K,mitv://generationnexxxt.com:19806/59ead8b7585c475584ab90ce75389b35
 彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
 彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
 歐美深夜,#genre#
