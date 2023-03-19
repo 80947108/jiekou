@@ -13,19 +13,19 @@ JStar极限台,mitv://generationnexxxt.com:19806/f05ed9c0b0db4acb834117168861b36
 HAPPY,mitv://generationnexxxt.com:19806/621bba9e74ba4b49be758c0208929195
 K,mitv://generationnexxxt.com:19806/59ead8b7585c475584ab90ce75389b35
 频道1,#genre#
-彩虹e台,P2p://generationnexxxt.com:19806/9a97004e2ba44dbe8c914dbeadee4b2f
-彩虹电影台,P2p://generationnexxxt.com:19806/3ef7a7fd87a449768196614c6433b080
-LOOK TV,P2p://generationnexxxt.com:19806/22344863fe414c439c9308b4aa2c4d3d
-潘朵啦玩美台,P2p://generationnexxxt.com:19806/95a3bc8a9acc421eb9469b4c13353028
-惊艳成人电影台,P2p://generationnexxxt.com:19806/d50084be17bd4adc8857dbd9e9ebbf25
-松视1台,P2p://generationnexxxt.com:19806/036970456a824a099a71595b6baf3921
-松视2台,P2p://generationnexxxt.com:19806/966ca0ffb710420ca2544fd6cdf1097f
-PLAYBOY,P2p://generationnexxxt.com:19806/082597a99d8247a3a791f44314cdb233
-香蕉台,P2p://generationnexxxt.com:19806/7523ece4707041c3a7aeb64c26aec183
-松视3台,P2p://generationnexxxt.com:19806/b8f8ad4e4b8847b289491374ddebe9fd
-JStar极限台,P2p://generationnexxxt.com:19806/3dae125a616947bfbfbbb303f9223f64
-HAPPY,P2p://generationnexxxt.com:19806/56b9936bf2284a8c8ba7717b0f2cbe24
-K,P2p://generationnexxxt.com:19806/3f0ab1d712b24f2ab466ed283f8e7469
+彩虹e台,p2p://generationnexxxt.com:9906/3ed3a87c9a4d485f896122e0682fdb12
+彩虹电影台,p2p://generationnexxxt.com:9906/166b10b0247d475abc0151adeb088146
+LOOK TV,p2p://generationnexxxt.com:9906/59a595c19e7448d5b8dfe0f913d1c0f6
+潘朵啦玩美台,p2p://generationnexxxt.com:9906/3a6b4d3d19eb4848aac2aaa77e980441
+惊艳成人电影台,p2p://generationnexxxt.com:9906/44b2795ce3b240beaba8b2b08daf662d
+松视1台,p2p://generationnexxxt.com:9906/0029bf9f99404c5ba1cee97e14ca39fd
+松视2台,p2p://generationnexxxt.com:9906/77029388d37445b9bf0740d74a95c83c
+PLAYBOY,p2p://generationnexxxt.com:9906/192dabb7a5e9481083de1c4c1f9c1cd1
+香蕉台,p2p://generationnexxxt.com:9906/744c31eeee3c4d4e85d994828b48e866
+松视3台,p2p://generationnexxxt.com:9906/6bc46f3fb81c4e51a850fdc6370267bf
+JStar极限台,p2p://generationnexxxt.com:9906/b267ce08e68a42f3b386428c1222313f
+HAPPY,p2p://generationnexxxt.com:9906/cbaed3220bf94e4e89a5815911a10d2f
+K,p2p://generationnexxxt.com:9906/7e9d1131b8724c25b7f56eb46416c1b4
 sp,#genre#
 松1台,zlive://173.208.209.114:7719/9bae9e9cf38740232eecb38955a1834f
 松2台,zlive://173.208.209.114:7719/5066d14f19396dd0f9281f078226975f&max
