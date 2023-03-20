@@ -1,4 +1,8 @@
 飞哥频道,#genre#
+彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
+彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
+JSTAR極限台,http://125.227.210.55:29351/VideoInput/play.ts
+奥視HD,http://125.227.210.55:62697/VideoInput/play.ts
 彩虹e台,mitv://generationnexxxt.com:19806/2a5b154749ab46eea144a4e0a103cae5
 彩虹电影台,mitv://generationnexxxt.com:19806/318295ce90604574a21320ae8b076450
 LOOK TV,mitv://generationnexxxt.com:19806/68e430cb813f400ab868521537373260
@@ -13,19 +17,16 @@ JStar极限台,mitv://generationnexxxt.com:19806/f05ed9c0b0db4acb834117168861b36
 HAPPY,mitv://generationnexxxt.com:19806/621bba9e74ba4b49be758c0208929195
 K,mitv://generationnexxxt.com:19806/59ead8b7585c475584ab90ce75389b35
 频道1,#genre#
-彩虹e台,p2p://generationnexxxt.com:9906/3ed3a87c9a4d485f896122e0682fdb12
-彩虹电影台,p2p://generationnexxxt.com:9906/166b10b0247d475abc0151adeb088146
-LOOK TV,p2p://generationnexxxt.com:9906/59a595c19e7448d5b8dfe0f913d1c0f6
-潘朵啦玩美台,p2p://generationnexxxt.com:9906/3a6b4d3d19eb4848aac2aaa77e980441
-惊艳成人电影台,p2p://generationnexxxt.com:9906/44b2795ce3b240beaba8b2b08daf662d
-松视1台,p2p://generationnexxxt.com:9906/0029bf9f99404c5ba1cee97e14ca39fd
-松视2台,p2p://generationnexxxt.com:9906/77029388d37445b9bf0740d74a95c83c
-PLAYBOY,p2p://generationnexxxt.com:9906/192dabb7a5e9481083de1c4c1f9c1cd1
-香蕉台,p2p://generationnexxxt.com:9906/744c31eeee3c4d4e85d994828b48e866
-松视3台,p2p://generationnexxxt.com:9906/6bc46f3fb81c4e51a850fdc6370267bf
-JStar极限台,p2p://generationnexxxt.com:9906/b267ce08e68a42f3b386428c1222313f
-HAPPY,p2p://generationnexxxt.com:9906/cbaed3220bf94e4e89a5815911a10d2f
-K,p2p://generationnexxxt.com:9906/7e9d1131b8724c25b7f56eb46416c1b4
+Sonsee 1 松視1,http://58.99.33.2:1935/liveedge2/jZPELJzi_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Sonsee 2 松視2,http://58.99.33.2:1935/liveedge2/jZPELJzi_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Sonsee 3 松視3,http://58.99.33.2:1935/liveedge2/jZPELJzi_407_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Rainbow 彩虹頻道,http://58.99.33.2:1935/liveedge2/jZPELJzi_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+樂活,http://58.99.33.2:1935/liveedge2/jZPELJzi_410_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Pandora Perfect 潘朵拉玩美,http://58.99.33.2:1935/liveedge2/jZPELJzi_411_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Pandora Pink 潘朵拉粉红,http://58.99.33.2:1935/liveedge2/jZPELJzi_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Amazing TV 驚豔台,http://58.99.33.2:1935/liveedge2/jZPELJzi_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+BananaHD 香蕉台,http://58.99.33.2:1935/liveedge2/jZPELJzi_414_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Hustler HD,http://193.33.240.8:80/hustler_hd/index.m3u8
 频道2,#genre#
 潘多拉完美,p2p://104.149.128.154:9906/60885835000df6a60f4afa0edd0a5555.ts
 潘朵拉粉红,p2p://104.149.128.154:9906/636d8cbf000abf897f833c710eb85063.ts
