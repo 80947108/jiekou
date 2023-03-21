@@ -19,9 +19,11 @@ K,mitv://generationnexxxt.com:19806/59ead8b7585c475584ab90ce75389b35
 xy,http://source-streams.com:8081/afshin-91/27092019/16
 老毛子,http://5.61.54.61:80/iptv/6ZGLX36ACHFVGH/6225/index.m3u8
 红兔,http://srv.maxptv.net:8080/adriano01/adriano01/88
+红兔1,http://190.187.247.206:8000/play/a08f/index.m3u8
 1,http://84.17.61.203:8086/udp/229.157.5.203:1234
 tv8,http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 vstv,http://170.83.242.8:5350/play/a00z
+2,https://m3ukodi.com/developer/transco/app_trans.php?Brazzers_Tv
 频道1,#genre#
 Sonsee 1 松視1,http://58.99.33.2:1935/liveedge2/jZPELJzi_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
 Sonsee 2 松視2,http://58.99.33.2:1935/liveedge2/jZPELJzi_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
