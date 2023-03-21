@@ -1,8 +1,8 @@
 {
     "urls": [
         {
-            "url": "https://yydsys.top/duo/v.json",
-            "name": "🏡应用多多家庭版"
+            "url": "https://yydsys.top/duo",
+            "name": "应用多多家庭版"
         },
         {
             "url": "https://yydsys.top/duo/x.json",
@@ -65,8 +65,12 @@
             "name": "🚀easybox线路"
         },
                 {
-            "url": "http://52bsj.vip:98/cl",
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
             "name": "🐹月光宝盒"
+        },
+        {
+            "url": "http://9xi4o.tk/0725.json",
+            "name": "🐹4K云盘"
         },
         {
             "url": "http://8.210.220.114:8888/down/O58AjFT1OrTq.json",
@@ -154,7 +158,7 @@
         },
         {
             "url": "https://raw.iqiq.io/80947108/py/main/py.json",
-            "name": "自用PY"
+            "name": "自用PY线路"
         },
         {
             "url": "https://raw.iqiq.io/80947108/feimao/main/jk.json",
