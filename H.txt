@@ -17,6 +17,7 @@ JStar极限台,mitv://generationnexxxt.com:19806/f05ed9c0b0db4acb834117168861b36
 HAPPY,mitv://generationnexxxt.com:19806/621bba9e74ba4b49be758c0208929195
 K,mitv://generationnexxxt.com:19806/59ead8b7585c475584ab90ce75389b35
 红兔,http://srv.maxptv.net:8080/adriano01/adriano01/88
+1,http://84.17.61.203:8086/udp/229.157.5.203:1234
 频道1,#genre#
 Sonsee 1 松視1,http://58.99.33.2:1935/liveedge2/jZPELJzi_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
 Sonsee 2 松視2,http://58.99.33.2:1935/liveedge2/jZPELJzi_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
