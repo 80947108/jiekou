@@ -61,6 +61,10 @@
             "name": "🚀dxawi0线路"
         },
         {
+            "url": "http://tv.lengniuge.ga/yingshi",
+            "name": "🚀楞牛哥线路"
+        },
+        {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "🚀小苹果线路"
         },
