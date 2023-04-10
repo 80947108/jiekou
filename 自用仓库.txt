@@ -9,6 +9,10 @@
             "name": "🚀阿里专线"
         }, 
         {
+            "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🚀蜂蜜线路"
+        }, 
+        {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "🚀肥猫线路"
         }, 
@@ -21,8 +25,8 @@
             "name": "🚀饭太硬线路"
         },               
         {
-            "url": "https://hutool.ml/tang",
-            "name": "🚀唐三线路"
+            "url": "https://d.looks.wang/我爱夜猫子",
+            "name": "🚀夜猫子"
         },                                           
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
@@ -49,7 +53,7 @@
             "name": "🚀霜辉月明"
         },
         {
-            "url": "http://dxawi.github.io/0/0.json",
+            "url": "https://raw.iqiq.io/dxawi/0/main/0.json",
             "name": "🚀dxawi0线路"
         },
         {
@@ -73,8 +77,8 @@
             "name": "🐹4K云盘"
         },
         {
-            "url": "http://8.210.220.114:8888/down/O58AjFT1OrTq.json",
-            "name": "🐹星辰线路"
+            "url": "http://tvmvip110.club/tv/box/xc.json",
+            "name": "🐹玉玉线路"
         },        
         {
             "url": "https://download.kstore.space/download/2863/01.txt",
@@ -149,7 +153,7 @@
             "name": "💎zzz1线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "url": "https://tv.5ye.cc",
             "name": "💎二哈线路"
         },
         {
