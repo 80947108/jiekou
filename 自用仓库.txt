@@ -73,6 +73,10 @@
             "name": "🚀easybox线路"
         },
         {
+            "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
+            "name": "🚀香雅情线路"
+        },
+        {
             "url": "https://download.kstore.space/download/2904/258.txt",
             "name": "🚀奇奇乐分享"
         },
