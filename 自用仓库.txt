@@ -53,6 +53,10 @@
             "name": "🚀霜辉月明"
         },
         {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀高天流云"
+        },
+        {
             "url": "https://raw.iqiq.io/dxawi/0/main/0.json",
             "name": "🚀dxawi0线路"
         },
@@ -68,7 +72,11 @@
             "url": "https://app.easybox.vip/dy",
             "name": "🚀easybox线路"
         },
-                {
+        {
+            "url": "https://download.kstore.space/download/2904/258.txt",
+            "name": "🚀奇奇乐分享"
+        },
+        {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
             "name": "🐹月光宝盒"
         },
