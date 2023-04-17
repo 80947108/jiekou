@@ -81,6 +81,10 @@
             "name": "🚀香雅情线路"
         },
         {
+            "url": "https://gitee.com/lekanbox/ysc/raw/master/ysc.json",
+            "name": "🚀运输车"
+        },
+        {
             "url": "https://download.kstore.space/download/2904/258.txt",
             "name": "🚀奇奇乐分享"
         },
