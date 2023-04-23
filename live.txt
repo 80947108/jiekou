@@ -1420,7 +1420,142 @@ TVB翡翠,http://23.237.10.66:16106
 梵净山,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
 地球脉动第一季,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7a3423af02284c3db48b854ab646993f/850.m3u8
 乘着火车看中国,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
+😁鬥魚系列,#genre#
+經典恐怖電影,http://epg.112114.xyz/douyu/1165374
+鬥魚恐怖電影1,http://epg.112114.xyz/douyu/263824
+鬥魚恐怖電影2,http://epg.112114.xyz/douyu/9275635
+鬥魚恐怖電影3,http://epg.112114.xyz/douyu/2935323
+鬥魚電影01,http://epg.112114.xyz/douyu/3637726
+鬥魚電影02,http://epg.112114.xyz/douyu/8985415
+鬥魚電影03,http://epg.112114.xyz/douyu/9650887
+鬥魚電影04,http://epg.112114.xyz/douyu/1226741
+鬥魚電影05,http://epg.112114.xyz/douyu/36337
+鬥魚電影06,http://epg.112114.xyz/douyu/2436390
+鬥魚電影07,http://epg.112114.xyz/douyu/96577
+鬥魚電影08,http://epg.112114.xyz/douyu/8770422
+鬥魚電影09,http://epg.112114.xyz/douyu/6140589
+鬥魚電影10,http://epg.112114.xyz/douyu/20415
+鬥魚電影11,http://epg.112114.xyz/douyu/323876
+鬥魚電影12,http://epg.112114.xyz/douyu/747764
+鬥魚電影13,http://epg.112114.xyz/douyu/85894
+鬥魚電影14,http://epg.112114.xyz/douyu/122402
+鬥魚電影15,http://epg.112114.xyz/douyu/9292492
+鬥魚電影16,http://epg.112114.xyz/douyu/2516864
+鬥魚電影17,http://epg.112114.xyz/douyu/4332
+鬥魚電影18,http://epg.112114.xyz/douyu/9651304
+鬥魚電影19,http://epg.112114.xyz/douyu/8814650
+鬥魚電影20,http://epg.112114.xyz/douyu/8945323
+鬥魚電影21,http://epg.112114.xyz/douyu/252802
+鬥魚電影22,http://epg.112114.xyz/douyu/2436390
+鬥魚電影23,http://epg.112114.xyz/douyu/3637726
+鬥魚電影24,http://epg.112114.xyz/douyu/323876
+鬥魚電影25,http://epg.112114.xyz/douyu/2935323
+鬥魚電影26,http://epg.112114.xyz/douyu/20415
+鬥魚電影27,http://epg.112114.xyz/douyu/413573
+鬥魚電影28,http://epg.112114.xyz/douyu/5802446
+鬥魚電影29,http://epg.112114.xyz/douyu/74374
+鬥魚電影30,http://epg.112114.xyz/douyu/5033502
+鬥魚電影31,http://epg.112114.xyz/douyu/85894
+鬥魚電影32,http://epg.112114.xyz/douyu/6566671
+鬥魚電影33,http://epg.112114.xyz/douyu/2793084
+鬥魚電影34,http://epg.112114.xyz/douyu/4505431
+鬥魚電影35,http://epg.112114.xyz/douyu/6566671
+鬥魚電影36,http://epg.112114.xyz/douyu/3928
+鬥魚電影37,http://epg.112114.xyz/douyu/434971
+鬥魚電影38,http://epg.112114.xyz/douyu/9275635
+鬥魚電影39,http://epg.112114.xyz/douyu/6655271
+鬥魚電影40,http://epg.112114.xyz/douyu/263824
+鬥魚電影41,http://epg.112114.xyz/douyu/36337
+鬥魚電影42,http://epg.112114.xyz/douyu/315457
+鬥魚電影43,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K.flv?wsAuth=5098901b40bc7b87b4eed18509f89245&token=cpn-androidmpro-0-20415-b6774b3b3249db178d68e54e4be54bf1ca391679b3fb2ffa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+鬥魚電影44,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+鬥魚電影45,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+鬥魚電影46,http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7_2000.flv?wsAuth=04a634b362e78e56af2bddde662c48c2&token=cpn-androidmpro-0-3637726-a97a3241d761383449992d5fe9f8adeb51c664499750bb31&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=
 
+鬥魚電視劇01,http://epg.112114.xyz/douyu/2838296
+鬥魚電視劇02,http://epg.112114.xyz/douyu/431460
+鬥魚電視劇03,http://epg.112114.xyz/douyu/7517784
+鬥魚電視劇04,http://epg.112114.xyz/douyu/7489563
+鬥魚電視劇05,http://epg.112114.xyz/douyu/6566658
+鬥魚電視劇06,http://epg.112114.xyz/douyu/431460
+鬥魚電視劇07,http://epg.112114.xyz/douyu/8600645
+鬥魚電視劇08,http://epg.112114.xyz/douyu/7575350
+鬥魚電視劇09,http://epg.112114.xyz/douyu/7644931
+鬥魚電視劇10,http://epg.112114.xyz/douyu/9650860
+鬥魚電視劇11,http://epg.112114.xyz/douyu/9435180
+鬥魚電視劇12,http://epg.112114.xyz/douyu/3756989
+鬥魚電視劇13,http://epg.112114.xyz/douyu/6706214
+鬥魚電視劇14,http://epg.112114.xyz/douyu/6478650
+😁虎牙系列,#genre#
+周星驰,http://jiandjh.51vip.biz:35455/huya/11342412
+林正英,http://jiandjh.51vip.biz:35455/huya/11342421
+港台电影,http://jiandjh.51vip.biz:35455/huya/880261
+欧美娱乐,http://jiandjh.51vip.biz:35455/huya/21059574
+沈腾,http://jiandjh.51vip.biz:35455/huya/11601968
+新三国,http://jiandjh.51vip.biz:35455/huya/11352944
+徐克,http://jiandjh.51vip.biz:35455/huya/11352909
+极限挑战],http://jiandjh.51vip.biz:35455/huya/11352914
+庆余年,http://jiandjh.51vip.biz:35455/huya/11352960
+陈翔六点半,http://jiandjh.51vip.biz:35455/huya/11274154
+成龙,http://jiandjh.51vip.biz:35455/huya/11342386
+电影,http://jiandjh.51vip.biz:35455/huya/618917
+路飞,http://jiandjh.51vip.biz:35455/huya/16913382
+刘德华,http://jiandjh.51vip.biz:35455/huya/11342424
+止戈电影,http://jiandjh.51vip.biz:35455/huya/19863777
+李连杰,http://jiandjh.51vip.biz:35455/huya/11342390
+欧美电影,http://jiandjh.51vip.biz:35455/huya/11352880
+科幻电影,http://jiandjh.51vip.biz:35455/huya/11602034
+杰森·斯坦森,http://jiandjh.51vip.biz:35455/huya/21059588
+红海行动,http://jiandjh.51vip.biz:35455/huya/11601986
+生活大爆炸,http://jiandjh.51vip.biz:35455/huya/11342417
+麻雀,http://jiandjh.51vip.biz:35455/huya/11352881
+周润发,http://jiandjh.51vip.biz:35455/huya/11342387
+经典高智商,http://jiandjh.51vip.biz:35455/huya/11352962
+倩女幽魂,http://jiandjh.51vip.biz:35455/huya/11601970
+朱雀青龙,http://jiandjh.51vip.biz:35455/huya/11352905
+小鲤鱼,http://jiandjh.51vip.biz:35455/huya/11601961
+警匪,http://jiandjh.51vip.biz:35455/huya/11352886
+百鸟朝凤,http://jiandjh.51vip.biz:35455/huya/15894162
+黑帮斗争,http://jiandjh.51vip.biz:35455/huya/11342419
+悬疑推理,http://jiandjh.51vip.biz:35455/huya/17445539
+好莱坞,http://jiandjh.51vip.biz:35455/huya/21059587
+医馆笑传,http://jiandjh.51vip.biz:35455/huya/11352891
+经典好片,http://jiandjh.51vip.biz:35455/huya/11342427
+史诗级战争电影,http://jiandjh.51vip.biz:35455/huya/21059556
+中国功夫,http://jiandjh.51vip.biz:35455/huya/11352941
+精彩不断,http://jiandjh.51vip.biz:35455/huya/24396428
+高分电影,http://jiandjh.51vip.biz:35455/huya/16615910
+经典喜剧片,http://jiandjh.51vip.biz:35455/huya/11352894
+徐峥,http://jiandjh.51vip.biz:35455/huya/11602043
+异形世界,http://jiandjh.51vip.biz:35455/huya/21059577
+神话,http://jiandjh.51vip.biz:35455/huya/11352913
+电锯惊魂系列,http://jiandjh.51vip.biz:35455/huya/11352903
+捉妖记,http://jiandjh.51vip.biz:35455/huya/11342414
+欧美电影,http://jiandjh.51vip.biz:35455/huya/21059581
+天雷滚滚,http://jiandjh.51vip.biz:35455/huya/11352945
+喜剧专场,http://jiandjh.51vip.biz:35455/huya/11602044
+金庸的武侠世界,http://jiandjh.51vip.biz:35455/huya/11342435
+杨门女将,http://jiandjh.51vip.biz:35455/huya/11336590
+天龙八部,http://jiandjh.51vip.biz:35455/huya/11602041
+魔法世界,http://jiandjh.51vip.biz:35455/huya/21059580
+文成公主,http://jiandjh.51vip.biz:35455/huya/11352974
+许氏三杰,http://jiandjh.51vip.biz:35455/huya/11602033
+精忠岳飞南征北战,http://jiandjh.51vip.biz:35455/huya/11336578
+张卫健,http://jiandjh.51vip.biz:35455/huya/11342423
+搞笑僵尸片,http://jiandjh.51vip.biz:35455/huya/11352963
+国产青春,http://jiandjh.51vip.biz:35455/huya/11602075
+孙悟空,http://jiandjh.51vip.biz:35455/huya/11342395
+太空混战,http://jiandjh.51vip.biz:35455/huya/21059579
+三国鼎立,http://jiandjh.51vip.biz:35455/huya/11602077
+歪果仁动作,http://jiandjh.51vip.biz:35455/huya/21059552
+冯小刚合集,http://jiandjh.51vip.biz:35455/huya/11352906
+命案十三宗,http://jiandjh.51vip.biz:35455/huya/11601981
+黄渤,http://jiandjh.51vip.biz:35455/huya/11352876
+喜剧合家欢,http://jiandjh.51vip.biz:35455/huya/11352877
+甄嬛传,http://jiandjh.51vip.biz:35455/huya/11601971
+我是大哥大,http://jiandjh.51vip.biz:35455/huya/23652317
+看救援电影,http://jiandjh.51vip.biz:35455/huya/21059586
+金庸电影,http://jiandjh.51vip.biz:35455/huya/11352897
 🐼｜动物世界,#genre#
 动物世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
 一片住着熊的森林1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2ac6789acc644b55a4df03445561c56b/1200.m3u8
@@ -1812,6 +1947,59 @@ TVB翡翠,http://23.237.10.66:16106
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&amp;t=1577153787
 
+轮播· 百视,#genre#
+童年国漫,http://bp-caster.bestv.com.cn/486/1/video.m3u8
+狗血集合,http://bp-caster.bestv.com.cn/569/1/video.m3u8
+解压喜剧,http://bp-caster.bestv.com.cn/570/1/video.m3u8
+布衣天子,http://bp-caster.bestv.com.cn/468/1/video.m3u8
+云游日本,http://bp-caster.bestv.com.cn/514/1/video.m3u8
+悬疑烧脑,http://bp-caster.bestv.com.cn/567/1/video.m3u8
+烈火英雄,http://bp-caster.bestv.com.cn/564/1/video.m3u8
+上头正剧,http://bp-caster.bestv.com.cn/501/1/video.m3u8
+我们的歌,http://bp-caster.bestv.com.cn/378/1/video.m3u8
+烈焰青春,http://bp-caster.bestv.com.cn/439/1/video.m3u8
+医护那些事,http://bp-caster.bestv.com.cn/493/1/video.m3u8
+人文秘境,http://bp-caster.bestv.com.cn/513/1/video.m3u8
+神奇公司,http://bp-caster.bestv.com.cn/356/1/video.m3u8
+重返20岁,http://bp-caster.bestv.com.cn/562/1/video.m3u8
+金曲青春,http://bp-caster.bestv.com.cn/561/1/video.m3u8
+三十正美丽,http://bp-caster.bestv.com.cn/492/1/video.m3u8
+高能脱口秀,http://bp-caster.bestv.com.cn/462/1/video.m3u8
+追光吧哥哥,http://bp-caster.bestv.com.cn/460/1/video.m3u8
+名侦探柯南,http://bp-caster.bestv.com.cn/560/1/video.m3u8
+花样姐姐,http://bp-caster.bestv.com.cn/559/1/video.m3u8
+完美的夏天,http://bp-caster.bestv.com.cn/510/1/video.m3u8
+宝藏纪录片,http://bp-caster.bestv.com.cn/515/1/video.m3u8
+极限挑战,http://bp-caster.bestv.com.cn/511/1/video.m3u8
+B+音乐厅,http://bp-caster.bestv.com.cn/469/1/video.m3u8
+相声有新人,http://bp-caster.bestv.com.cn/512/1/video.m3u8
+迷案上海滩,http://bp-caster.bestv.com.cn/494/1/video.m3u8
+打工人奋斗史,http://bp-caster.bestv.com.cn/532/1/video.m3u8
+泰上头,http://bp-caster.bestv.com.cn/490/1/video.m3u8
+介就是爱,http://bp-caster.bestv.com.cn/480/1/video.m3u8
+七彩戏剧,https://bp-caster.bestv.com.cn/250/1/video.m3u8
+健康,http://bp-caster.bestv.com.cn:80/402/1/video.m3u8
+读诗,http://bp-caster.bestv.com.cn:80/418/3/video.m3u8
+戏曲,http://bp-caster.bestv.com.cn:80/429/3/video.m3u8
+美食,http://bp-caster.bestv.com.cn:80/432/2/video.m3u8
+不朽的传承,http://bp-caster.bestv.com.cn:80/437/2/video.m3u8
+烈焰青春,http://bp-caster.bestv.com.cn:80/439/play.m3u8
+春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
+跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
+我们的歌,http://bp-caster.bestv.com.cn:80/378/1/video.m3u8
+完美的夏天,http://bp-caster.bestv.com.cn:80/377/2/video.m3u8
+神奇公司,http://bp-caster.bestv.com.cn:80/356/play.m3u8
+jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
+搞笑穿越,http://bp-caster.bestv.com.cn:80/361/play.m3u8
+科学大爆炸,http://bp-caster.bestv.com.cn:80/333/play.m3u8
+高颜值偶像剧,http://bp-caster.bestv.com.cn:80/328/play.m3u8
+下饭爽剧,http://bp-caster.bestv.com.cn:80/322/play.m3u8
+猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8?servicetype=1
+童年国漫,https://bp-caster.bestv.com.cn:443/249/play.m3u8
+海派滑稽戏,https://bp-caster.bestv.com.cn:443/250/play.m3u8
+相声有新人,http://bp-caster.bestv.com.cn:80/335/3/video.m3u8
+越剧名家名段,http://bp-caster.bestv.com.cn:80/320/play.m3u8
+猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8
 📚｜空中课堂,#genre#
 一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
@@ -2049,128 +2237,67 @@ NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.
 
 
 🎀｜爱系列,#genre#
-爱电竞,http://39.134.136.141:6610/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3
-爱电竞,http://39.134.136.141:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-爱谍战,http://39.134.136.141:6610/000000001000/2000000004000000038/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=3
-爱谍战,http://39.134.136.141:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-爱动漫,http://39.134.136.141:6610/000000001000/2000000004000000059/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=3
-爱动漫,http://39.134.136.141:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-爱都市,http://39.134.136.141:6610/000000001000/2000000004000000039/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000039&livemode=1&stbId=3
-爱都市,http://39.134.136.141:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-爱怀旧,http://39.134.136.141:6610/000000001000/2000000004000000057/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000057&livemode=1&stbId=3
-爱怀旧,http://39.134.136.141:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-爱极限,http://39.134.136.141:6610/000000001000/2000000004000000048/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000048&livemode=1&stbId=3
-爱极限,http://39.134.136.141:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
-爱家庭,http://39.134.136.141:6610/000000001000/2000000004000000040/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000040&livemode=1&stbId=3
-爱家庭,http://39.134.136.141:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-爱江湖,http://39.134.136.141:6610/000000001000/2000000004000000042/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000042&livemode=1&stbId=3
-爱江湖,http://39.134.136.141:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-爱解密,http://39.134.136.141:6610/000000001000/2000000004000000051/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000051&livemode=1&stbId=3
-爱解密,http://39.134.136.141:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
-爱经典,http://39.134.136.141:6610/000000001000/2000000004000000037/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000037&livemode=1&stbId=3
-爱经典,http://39.134.136.141:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-爱科幻,http://39.134.136.141:6610/000000001000/2000000004000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=3
-爱科幻,http://39.134.136.141:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-爱科学,http://39.134.136.141:6610/000000001000/2000000004000000047/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=3
-爱科学,http://39.134.136.141:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-爱浪漫,http://39.134.136.141:6610/000000001000/2000000004000000035/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=3
-爱浪漫,http://39.134.136.141:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-爱历史,http://39.134.136.141:6610/000000001000/2000000004000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=3
-爱历史,http://39.134.136.141:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-爱猎奇,http://39.134.136.141:6610/000000001000/2000000004000000050/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000050&livemode=1&stbId=3
-爱猎奇,http://39.134.136.141:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
-爱旅行,http://39.134.136.141:6610/000000001000/2000000004000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=3
-爱旅行,http://39.134.136.141:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-爱美食,http://39.134.136.141:6610/000000001000/2000000004000000043/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000043&livemode=1&stbId=3
-爱美食,http://39.134.136.141:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
-爱奇谈,http://39.134.136.141:6610/000000001000/2000000004000000058/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=3
-爱奇谈,http://39.134.136.141:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-爱青春,http://39.134.136.141:6610/000000001000/2000000004000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000041&livemode=1&stbId=3
-爱青春,http://39.134.136.141:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-爱赛车,http://39.134.136.141:6610/000000001000/2000000004000000055/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=3
-爱赛车,http://39.134.136.141:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-爱时尚,http://39.134.136.141:6610/000000001000/2000000004000000045/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000045&livemode=1&stbId=3
-爱时尚,http://39.134.136.141:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
-爱世界,http://39.134.136.141:6610/000000001000/2000000004000000052/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000052&livemode=1&stbId=3
-爱世界,http://39.134.136.141:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
-爱探索,http://39.134.136.141:6610/000000001000/2000000004000000061/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000061&livemode=1&stbId=3
-爱探索,http://39.134.136.141:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
-爱体育,http://39.134.136.141:6610/000000001000/2000000004000000060/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=3
-爱体育,http://39.134.136.141:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-爱玩具,http://39.134.136.141:6610/000000001000/2000000004000000053/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=3
-爱玩具,http://39.134.136.141:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-爱喜剧,http://39.134.136.141:6610/000000001000/2000000004000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=3
-爱喜剧,http://39.134.136.141:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-爱悬疑,http://39.134.136.141:6610/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=3
-爱悬疑,http://39.134.136.141:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-爱幼教,http://39.134.136.141:6610/000000001000/2000000004000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=3
-爱幼教,http://39.134.136.141:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-爱娱乐,http://39.134.136.141:6610/000000001000/2000000004000000044/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000044&livemode=1&stbId=3
-爱娱乐,http://39.134.136.141:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
-爱院线,http://39.134.136.141:6610/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-爱院线,http://39.134.136.141:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+爱电竞,http://39.134.136.161:6610/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3
+爱电竞,http://39.134.136.161:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+爱谍战,http://39.134.136.161:6610/000000001000/2000000004000000038/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=3
+爱谍战,http://39.134.136.161:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+爱动漫,http://39.134.136.161:6610/000000001000/2000000004000000059/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=3
+爱动漫,http://39.134.136.161:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+爱都市,http://39.134.136.161:6610/000000001000/2000000004000000039/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000039&livemode=1&stbId=3
+爱都市,http://39.134.136.161:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
+爱怀旧,http://39.134.136.161:6610/000000001000/2000000004000000057/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000057&livemode=1&stbId=3
+爱怀旧,http://39.134.136.161:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+爱极限,http://39.134.136.161:6610/000000001000/2000000004000000048/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000048&livemode=1&stbId=3
+爱极限,http://39.134.136.161:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
+爱家庭,http://39.134.136.161:6610/000000001000/2000000004000000040/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000040&livemode=1&stbId=3
+爱家庭,http://39.134.136.161:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
+爱江湖,http://39.134.136.161:6610/000000001000/2000000004000000042/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000042&livemode=1&stbId=3
+爱江湖,http://39.134.136.161:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
+爱解密,http://39.134.136.161:6610/000000001000/2000000004000000051/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000051&livemode=1&stbId=3
+爱解密,http://39.134.136.161:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
+爱经典,http://39.134.136.161:6610/000000001000/2000000004000000037/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000037&livemode=1&stbId=3
+爱经典,http://39.134.136.161:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+爱科幻,http://39.134.136.161:6610/000000001000/2000000004000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=3
+爱科幻,http://39.134.136.161:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+爱科学,http://39.134.136.161:6610/000000001000/2000000004000000047/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=3
+爱科学,http://39.134.136.161:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+爱浪漫,http://39.134.136.161:6610/000000001000/2000000004000000035/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=3
+爱浪漫,http://39.134.136.161:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+爱历史,http://39.134.136.161:6610/000000001000/2000000004000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=3
+爱历史,http://39.134.136.161:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+爱猎奇,http://39.134.136.161:6610/000000001000/2000000004000000050/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000050&livemode=1&stbId=3
+爱猎奇,http://39.134.136.161:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
+爱旅行,http://39.134.136.161:6610/000000001000/2000000004000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=3
+爱旅行,http://39.134.136.161:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+爱美食,http://39.134.136.161:6610/000000001000/2000000004000000043/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000043&livemode=1&stbId=3
+爱美食,http://39.134.136.161:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
+爱奇谈,http://39.134.136.161:6610/000000001000/2000000004000000058/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=3
+爱奇谈,http://39.134.136.161:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+爱青春,http://39.134.136.161:6610/000000001000/2000000004000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000041&livemode=1&stbId=3
+爱青春,http://39.134.136.161:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+爱赛车,http://39.134.136.161:6610/000000001000/2000000004000000055/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=3
+爱赛车,http://39.134.136.161:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+爱时尚,http://39.134.136.161:6610/000000001000/2000000004000000045/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000045&livemode=1&stbId=3
+爱时尚,http://39.134.136.161:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
+爱世界,http://39.134.136.161:6610/000000001000/2000000004000000052/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000052&livemode=1&stbId=3
+爱世界,http://39.134.136.161:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
+爱探索,http://39.134.136.161:6610/000000001000/2000000004000000061/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000061&livemode=1&stbId=3
+爱探索,http://39.134.136.161:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
+爱体育,http://39.134.136.161:6610/000000001000/2000000004000000060/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=3
+爱体育,http://39.134.136.161:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+爱玩具,http://39.134.136.161:6610/000000001000/2000000004000000053/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=3
+爱玩具,http://39.134.136.161:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+爱喜剧,http://39.134.136.161:6610/000000001000/2000000004000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=3
+爱喜剧,http://39.134.136.161:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+爱悬疑,http://39.134.136.161:6610/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=3
+爱悬疑,http://39.134.136.161:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+爱幼教,http://39.134.136.161:6610/000000001000/2000000004000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=3
+爱幼教,http://39.134.136.161:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+爱娱乐,http://39.134.136.161:6610/000000001000/2000000004000000044/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000044&livemode=1&stbId=3
+爱娱乐,http://39.134.136.161:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
+爱院线,http://39.134.136.161:6610/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
+爱院线,http://39.134.136.161:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
-IHOT系列,#genre#
-IHOT爱喜剧,http://39.135.126.226:6610/000000001001/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱科幻,http://39.135.126.226:6610/000000001001/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱院线,http://39.135.126.226:6610/000000001001/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱浪漫,http://39.135.126.226:6610/000000001001/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱悬疑,http://39.135.126.226:6610/000000001001/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱经典,http://39.135.126.226:6610/000000001001/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱谍战,http://39.135.126.226:6610/000000001001/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱都市,http://39.135.126.226:6610/000000001001/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱家庭,http://39.135.126.226:6610/000000001001/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱青春,http://39.135.126.226:6610/000000001001/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱江湖,http://39.135.126.226:6610/000000001001/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱美食,http://39.135.126.226:6610/000000001001/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱娱乐,http://39.135.126.226:6610/000000001001/6000000006000130630/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱时尚,http://39.135.126.226:6610/000000001001/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱历史,http://39.135.126.226:6610/000000001001/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱科学,http://39.135.126.226:6610/000000001001/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱军武,http://39.135.126.226:6610/000000001001/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱幼教,http://39.135.126.226:6610/000000001001/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱猎奇,http://39.135.126.226:6610/000000001001/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱解密,http://39.135.126.226:6610/000000001001/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱世界,http://39.135.126.226:6610/000000001001/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱玩具,http://39.135.126.226:6610/000000001001/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱电竞,http://39.135.126.226:6610/000000001001/6000000006000230630/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱赛车,http://39.135.126.226:6610/000000001001/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱旅行,http://39.135.126.226:6610/000000001001/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱怀旧,http://39.135.126.226:6610/000000001001/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱奇谈,http://39.135.126.226:6610/000000001001/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱动漫,http://39.135.126.226:6610/000000001001/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱体育,http://39.135.126.226:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱探索,http://39.135.126.226:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱喜剧,http://39.135.126.231:6610/000000001001/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱科幻,http://39.135.126.231:6610/000000001001/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱院线,http://39.135.126.231:6610/000000001001/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱浪漫,http://39.135.126.231:6610/000000001001/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱悬疑,http://39.135.126.231:6610/000000001001/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱经典,http://39.135.126.231:6610/000000001001/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱谍战,http://39.135.126.231:6610/000000001001/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱都市,http://39.135.126.231:6610/000000001001/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱家庭,http://39.135.126.231:6610/000000001001/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱青春,http://39.135.126.231:6610/000000001001/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱江湖,http://39.135.126.231:6610/000000001001/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱美食,http://39.135.126.231:6610/000000001001/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱娱乐,http://39.135.126.231:6610/000000001001/6000000006000130630/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱时尚,http://39.135.126.231:6610/000000001001/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱历史,http://39.135.126.231:6610/000000001001/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱科学,http://39.135.126.231:6610/000000001001/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱军武,http://39.135.126.231:6610/000000001001/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱幼教,http://39.135.126.231:6610/000000001001/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱猎奇,http://39.135.126.231:6610/000000001001/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱解密,http://39.135.126.231:6610/000000001001/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱世界,http://39.135.126.231:6610/000000001001/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱玩具,http://39.135.126.231:6610/000000001001/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱电竞,http://39.135.126.231:6610/000000001001/6000000006000230630/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱赛车,http://39.135.126.231:6610/000000001001/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱旅行,http://39.135.126.231:6610/000000001001/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱怀旧,http://39.135.126.231:6610/000000001001/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱奇谈,http://39.135.126.231:6610/000000001001/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱动漫,http://39.135.126.231:6610/000000001001/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱体育,http://39.135.126.231:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
-IHOT爱探索,http://39.135.126.231:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
 🐆🐅虎牙,#genre#
 周星驰-粤语,http://121.51.52.16/txdirect.flv.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8??
 吴孟达,http://121.51.52.16/txdirect.flv.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8??
@@ -2414,7 +2541,180 @@ Adam短发 海贼王我抢了尾田的笔动画从奥哈拉屠魔,http://121.51.
 埋堆堆45,http://43.128.40.42:198/虎牙直播/huya.php?id=23863787
 埋堆堆46,http://43.128.40.42:198/虎牙直播/huya.php?id=23728637
 埋堆堆47,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
+点播·狂飙,#genre#
+狂飙一,https://vip.lz-cdn3.com/20230114/17154_db8125dc/1800k/hls/mixed.m3u8
+狂飙二,https://vip.lz-cdn3.com/20230114/17153_ab4d621a/1800k/hls/mixed.m3u8
+狂飙三,https://vip.lz-cdn3.com/20230114/17152_a52e37f9/1800k/hls/mixed.m3u8
+狂飙四,https://vip.lz-cdn3.com/20230114/17151_4542e04e/1800k/hls/mixed.m3u8
+狂飙五,https://vip.lz-cdn3.com/20230114/17150_abade231/1800k/hls/mixed.m3u8
+狂飙六,https://vip.lzcdn2.com/20230115/23356_f73a5483/1800k/hls/mixed.m3u8
+狂飙七,https://vip.lzcdn2.com/20230115/23355_f43e640a/1800k/hls/mixed.m3u8
+狂飙八,https://vip.lzcdn2.com/20230116/23419_27b37cf8/1800k/hls/mixed.m3u8
+狂飙九,https://vip.lzcdn2.com/20230116/23418_139fc861/1800k/hls/mixed.m3u8
+狂飙十,https://vip.lzcdn2.com/20230117/23466_0094544a/1800k/hls/mixed.m3u8
+狂飙十一,https://vip.lzcdn2.com/20230117/23465_e341c79f/1800k/hls/mixed.m3u8
+狂飙十二,https://hd.lz-cdn18.com/20230118/14_5c240b76/2000k/hls/mixed.m3u8
+狂飙十三,https://hd.lz-cdn18.com/20230118/13_66033d12/2000k/hls/mixed.m3u8
+狂飙十四,https://hd.lz-cdn18.com/20230119/21_7325557b/2000k/hls/mixed.m3u8
+狂飙十五,https://hd.lz-cdn18.com/20230119/20_8d21dc5b/2000k/hls/mixed.m3u8
+狂飙十六,https://hd.lz-cdn18.com/20230120/40_e60ad997/2000k/hls/mixed.m3u8
+狂飙十七,https://vip.lzcdn2.com/20230121/23543_4f58c1fd/1800k/hls/mixed.m3u8
+狂飙十八,https://vip.lzcdn2.com/20230122/23566_c2819f34/1800k/hls/mixed.m3u8
+狂飙十九,https://vip.lzcdn2.com/20230122/23565_0c2ae732/1800k/hls/mixed.m3u8
+狂飙二十,https://vip.lzcdn2.com/20230123/23579_1a67afc6/1800k/hls/mixed.m3u8
+狂飙二十一,https://vip.lzcdn2.com/20230123/23578_e3d66498/1800k/hls/mixed.m3u8
+狂飙二十二,https://hd.lz-cdn18.com/20230124/115_aa734ff7/2000k/hls/mixed.m3u8
+狂飙二十三,https://hd.lz-cdn18.com/20230124/114_d696d594/2000k/hls/mixed.m3u8
+狂飙二十四,https://vip.lzcdn2.com/20230125/23613_326a56c0/1800k/hls/mixed.m3u8
+狂飙二十五,https://vip.lzcdn2.com/20230125/23612_9783c1ee/1800k/hls/mixed.m3u8
+狂飙二十六,https://hd.lz-cdn18.com/20230126/155_7258f3cc/2000k/hls/mixed.m3u8
+狂飙二十七,https://hd.lz-cdn18.com/20230127/198_7877b31c/2000k/hls/mixed.m3u8
+狂飙二十八,https://hd.lz-cdn18.com/20230127/197_e1fe4c05/2000k/hls/mixed.m3u8
+狂飙二十九,https://hd.lz-cdn18.com/20230127/196_604186b7/2000k/hls/mixed.m3u8
+狂飙三十,https://vip.lzcdn2.com/20230128/23649_fd06986f/1800k/hls/mixed.m3u8
+狂飙三十一,https://vip.lzcdn2.com/20230128/23648_622b2fa9/1800k/hls/mixed.m3u8
+狂飙三十二,https://hd.lz-cdn18.com/20230129/248_18bd48a7/2000k/hls/mixed.m3u8
+狂飙三十三,https://hd.lz-cdn18.com/20230129/247_61a22a1f/2000k/hls/mixed.m3u8
+狂飙三十四,https://vip.lzcdn2.com/20230130/23690_ec7e6c19/1800k/hls/mixed.m3u8
+狂飙三十五,https://vip.lzcdn2.com/20230130/23689_605a61b6/1800k/hls/mixed.m3u8
+狂飙三十六,https://hd.lz-cdn18.com/20230131/297_cc76dd2f/2000k/hls/mixed.m3u8
+狂飙三十七,https://hd.lz-cdn18.com/20230131/296_f35955e8/2000k/hls/mixed.m3u8
+狂飙三十八,https://vip.lzcdn2.com/20230201/23716_c10840ec/1800k/hls/mixed.m3u8
+狂飙三十九,https://vip.lzcdn2.com/20230201/23715_44218045/1800k/hls/mixed.m3u8
 
+点播·三国,#genre#
+三国01,https://50069.njc.svp.tencent-cloud.com/0b78eyaasaaapyammdoijjqfajwdbetaacia.f10002.mp4
+三国02,https://50069.njc.svp.tencent-cloud.com/0bf2gmaagaaa2ean2ld2dnqfam6damzqaaya.f10002.mp4
+三国03,https://50069.njc.svp.tencent-cloud.com/0bf2dmaagaaahaaohl32crqfag6damnqaaya.f10002.mp4
+三国04,https://50069.njc.svp.tencent-cloud.com/0bf2leaagaaai4aovs32crqfawodanmqaaya.f10002.mp4
+三国05,https://50069.njc.svp.tencent-cloud.com/0bf24maa4aaa3yaawheadnqfby6db3rqadqa.f10002.mp4
+三国06,https://50069.njc.svp.tencent-cloud.com/0bf2zqaa4aaaueaax5eaczqfbtgdb3gaadqa.f10002.mp4
+三国07,https://50069.njc.svp.tencent-cloud.com/0bf2suabkaaab4abbt4acjqfbfodcwkqafia.f10002.mp4
+三国08,https://50069.njc.svp.tencent-cloud.com/0bf2xuabaaaauiaapluaarqfbpodcc6qaeaa.f10002.mp4
+三国09,https://50069.njc.svp.tencent-cloud.com/0b78hiaamaaawuaa6mmbafqfaowday5aabqa.f10002.mp4
+三国10,https://50069.njc.svp.tencent-cloud.com/0b78ceaakaaaviaaz34bcnqfaeodauiqabia.f10002.mp4
+三国11,https://50069.njc.svp.tencent-cloud.com/0bf2oyabcaaatiabq4eba5qfa5wdcf3aaeia.f10002.mp4
+三国12,https://50069.njc.svp.tencent-cloud.com/0b782eaaoaaavuapidmecfqfbuoda7iqabya.f10002.mp4
+三国13,https://50069.njc.svp.tencent-cloud.com/0b78wuaasaaauuaegcegb5qfbnodbg2qacia.f10002.mp4
+三国14,https://50069.njc.svp.tencent-cloud.com/0b78aaaaqaaa5qags3ufdfqfaagdbaaaacaa.f10002.mp4
+三国15,https://50069.njc.svp.tencent-cloud.com/0bf2oeabgaaam4ahp6efbjqfa4odcnyqaeya.f10002.mp4
+三国16,https://50069.njc.svp.tencent-cloud.com/0bf2luabyaaacmahqymfbnqfaxoddroqahaa.f10002.mp4
+三国17,https://50069.njc.svp.tencent-cloud.com/0bf2sqabwaaaxiag3amfanqfbfgddokaagya.f10002.mp4
+三国18,https://50069.njc.svp.tencent-cloud.com/0bf2baacaaaal4afmwmfgnqfacgdeaeaaiaa.f10002.mp4
+三国19,https://50069.njc.svp.tencent-cloud.com/0b78zmaaiaaazuaormgkknqfbs6datfqabaa.f10002.mp4
+三国20,https://50069.njc.svp.tencent-cloud.com/0bf2baacaaaakaafqp4fgrqfacgdeaeaaiaa.f10002.mp4
+三国21,https://50069.njc.svp.tencent-cloud.com/0bf22eab2aaabiafj3mgbbqfbuoddxiqahia.f10002.mp4
+三国22,https://50069.njc.svp.tencent-cloud.com/0b78wuaasaaauuaegcegb5qfbnodbg2qacia.f10002.mp4
+三国23,https://50069.njc.svp.tencent-cloud.com/0bf224ab4aaatiafiomgbbqfbv6dd3lqahqa.f10002.mp4
+三国24,https://50069.njc.svp.tencent-cloud.com/0bf2aaab6aaareafleugbbqfaagdd4aaahya.f10002.mp4
+三国25,https://50069.njc.svp.tencent-cloud.com/0bf2kmab4aaaiqaffmmgbfqfau6ddzjqahqa.f10002.mp4
+三国26,https://50069.njc.svp.tencent-cloud.com/0bf224aceaaa54ag7dmggfqfbv6dellqaiqa.f10002.mp4
+三国27,https://50069.njc.svp.tencent-cloud.com/0bf2zyab4aaareafgwugbjqfbtwdd3haahqa.f10002.mp4
+三国28,https://50069.njc.svp.tencent-cloud.com/0bf2wuab4aaa4eafhj4gazqfbnodd22qahqa.f10002.mp4
+三国29,https://50069.njc.svp.tencent-cloud.com/0bf2cqacgaaaduag37uggjqfafgdemkaaiya.f10002.mp4
+三国30,https://50069.njc.svp.tencent-cloud.com/0bf2kuaciaaatyam5feignqfavoderkqajaa.f10002.mp4
+三国31,https://50069.njc.svp.tencent-cloud.com/0bf2uaaceaaa2uamsduigzqfbigdekqaaiqa.f10002.mp4
+三国32,https://50069.njc.svp.tencent-cloud.com/0bf26aacgaaagmamr4eigzqfb4gdepyaaiya.f10002.mp4
+三国33,https://50069.njc.svp.tencent-cloud.com/0bf2yuaciaaaaaamqguignqfbrodetcqajaa.f10002.mp4
+三国34,https://50069.njc.svp.tencent-cloud.com/0bf2ueabwaaavaapnvmiajqfbioddoqqagya.f10002.mp4
+三国35,https://50069.njc.svp.tencent-cloud.com/0b78puaauaaaemaopt4iavqfa7odbj6qacqa.f10002.mp4
+三国36,https://50069.njc.svp.tencent-cloud.com/0bf2ouab4aaapaaciqmka5qfa5oddz2qahqa.f10002.mp4
+三国37,https://50069.njc.svp.tencent-cloud.com/0bf23iac2aaa4eaboq4khzqfbwwdfxnaalia.f10002.mp4
+三国38,https://50069.njc.svp.tencent-cloud.com/0bf26aacoaaatqab2b4kgbqfb4gde7yaajya.f10002.mp4
+三国39,https://50069.njc.svp.tencent-cloud.com/0bf22macyaaavqabbmekhzqfbu6dftjqalaa.f10002.mp4
+三国40,https://50069.njc.svp.tencent-cloud.com/0bf2bqacsaaaviablgukhrqfadgdfegaakia.f10002.mp4
+三国41,https://50069.njc.svp.tencent-cloud.com/0b78p4aawaaaquadptmkarqfa76dbn7qacya.f10002.mp4
+三国42,https://50069.njc.svp.tencent-cloud.com/0bf2xuacuaaaqaakiqmlhvqfbpodfk6qakqa.f10002.mp4
+三国43,https://50069.njc.svp.tencent-cloud.com/0b78hmaa2aaalaaihd4lajqfao6dbu5qadia.f10002.mp4
+三国44,https://50069.njc.svp.tencent-cloud.com/0bf22macuaaal4akjdmlgjqfbu6dfljqakqa.f10002.mp4
+三国45,https://50069.njc.svp.tencent-cloud.com/0bf2zuadcaaabmal6jelebqfbtodghgqamia.f10002.mp4
+三国46,https://50069.njc.svp.tencent-cloud.com/0bf2leacqaaatyalqymlhvqfawodfbmqakaa.f10002.mp4
+三国47,https://50069.njc.svp.tencent-cloud.com/0bf2b4acuaaa7malr7ulhvqfad6dfihqakqa.f10002.mp4
+三国48,https://50069.njc.svp.tencent-cloud.com/0bf2naadiaaaoiakov4lgnqfa2gdgruaanaa.f10002.mp4
+三国49,https://50069.njc.svp.tencent-cloud.com/0bf25maaqaaau4ajxg4lbzqfb26dbdvqacaa.f10002.mp4
+三国50,https://50069.njc.svp.tencent-cloud.com/0bf2a4accaaazealknelhbqfab6deedqaiia.f10002.mp4
+三国51,https://50069.njc.svp.tencent-cloud.com/0b78paaayaaa6iajs4mldjqfa6gdbr4aadaa.f10002.mp4
+三国52,https://50069.njc.svp.tencent-cloud.com/0bf2leackaaa7yammkumhrqfawodevmqajia.f10002.mp4
+三国53,https://50069.njc.svp.tencent-cloud.com/0b78guaa2aaa7yao4qmmdjqfanodbu2qadia.f10002.mp4
+三国54,https://50069.njc.svp.tencent-cloud.com/0bf2oeacwaaaruamq7emgnqfa4odfnyqakya.f10002.mp4
+三国55,https://50069.njc.svp.tencent-cloud.com/0b78lmaa2aaadyaov4umdnqfaw6dbvnqadia.f10002.mp4
+三国56,https://50069.njc.svp.tencent-cloud.com/0bf2dyadgaaapmanizeme5qfahwdgmpaamya.f10002.mp4
+三国57,https://50069.njc.svp.tencent-cloud.com/0bf2ceadmaaatyandg4merqfaeodgyiqanqa.f10002.mp4
+三国58,https://50069.njc.svp.tencent-cloud.com/0bf25uadcaaammab5z4offqfb3odghwqamia.f10002.mp4
+三国59,https://50069.njc.svp.tencent-cloud.com/0bf2h4acsaaariaanpuogbqfap6dfe7qakia.f10002.mp4
+三国60,https://50069.njc.svp.tencent-cloud.com/0bf2w4adeaaakmab33uofjqfbn6dgk3qamqa.f10002.mp4
+三国61,https://50069.njc.svp.tencent-cloud.com/0bf2dqadiaaamiaakqmoerqfahgdgqoaanaa.f10002.mp4
+三国62,https://50069.njc.svp.tencent-cloud.com/0bf2eiadqaaam4aem6mpf5qfaiwdharaaoaa.f10002.mp4
+三国63,https://50069.njc.svp.tencent-cloud.com/0bf2myafcaaacyac64upkzqfazwdkftaauia.f10002.mp4
+三国64,https://50069.njc.svp.tencent-cloud.com/0bf2syaegaaagmad3g4pirqfbfwdiolaaqya.f10002.mp4
+三国65,https://50069.njc.svp.tencent-cloud.com/0bf24uad2aaap4aeexupf5qfbzodhxsqapia.f10002.mp4
+三国66,https://50069.njc.svp.tencent-cloud.com/0bf2cqad2aaaw4alcympf5qfafgdhukaapia.f10002.mp4
+三国67,https://50069.njc.svp.tencent-cloud.com/0bf2qeadiaaaoyalq6mpejqfbaodgsaqanaa.f10002.mp4
+三国68,https://50069.njc.svp.tencent-cloud.com/0bf2ruadgaaa3aal4kepevqfbdodgogqamya.f10002.mp4
+三国69,https://50069.njc.svp.tencent-cloud.com/0bf2z4adwaaauqakxaepffqfbt6dhphqaoya.f10002.mp4
+三国70,https://50069.njc.svp.tencent-cloud.com/0bf2kaaegaaaueango4pirqfaugdiniaaqya.f10002.mp4
+三国71,https://50069.njc.svp.tencent-cloud.com/0b78amabaaaa6aaica4pc5qfaa6dcabqaeaa.f10002.mp4
+三国72,https://50069.njc.svp.tencent-cloud.com/0bf2ceadmaaabuakirepejqfaeodgyiqanqa.f10002.mp4
+三国73,https://50069.njc.svp.tencent-cloud.com/0bf2miadoaaafmaklpmpebqfaywdg5raanya.f10002.mp4
+三国74,https://50069.njc.svp.tencent-cloud.com/0b78ayaa6aaahyajzwepdzqfabwdb4daadya.f10002.mp4
+三国75,https://50069.njc.svp.tencent-cloud.com/0bf2siadiaaaz4akamepenqfbewdgsjaanaa.f10002.mp4
+三国76,https://50069.njc.svp.tencent-cloud.com/0bf2feadkaaa5uakddmpebqfakodguuqania.f10002.mp4
+三国77,https://50069.njc.svp.tencent-cloud.com/0bf26yacwaaa6qal5gmpgjqfb5wdfp3aakya.f10002.mp4
+三国78,https://50069.njc.svp.tencent-cloud.com/0b78lyaa6aaaqiajurepdzqfaxwdb5paadya.f10002.mp4
+三国79,https://50069.njc.svp.tencent-cloud.com/0b78vyaa4aaahyajnjepdbqfblwdb2xaadqa.f10002.mp4
+三国80,https://50069.njc.svp.tencent-cloud.com/0bf2jmaawaaajeajeo4pbvqfas6dbnfqacya.f10002.mp4
+三国81,https://50069.njc.svp.tencent-cloud.com/0bf2c4aecaaaeaanqumpizqfaf6dielqaqia.f10002.mp4
+三国82,https://50069.njc.svp.tencent-cloud.com/0bf2ueaecaaacaajmnmqkbqfbiodigqqaqia.f10002.mp4
+三国83,https://50069.njc.svp.tencent-cloud.com/0b78quaa6aaal4anqzeqdvqfbbodb6cqadya.f10002.mp4
+三国84,https://50069.njc.svp.tencent-cloud.com/0bf2hmaecaaagaajso4qkbqfao6die5qaqia.f10002.mp4
+
+点播·九叔,#genre#
+林正英 01,https://50069.njc.svp.tencent-cloud.com/0b78uyaaoaaahqapjfqfwfqvbjwda6taabya.f10002.mp4
+林正英 02,https://50069.njc.svp.tencent-cloud.com/0bc3uuabyaaagmahv4c745rfbjoddssqahaa.f10002.mp4
+林正英 03,https://50069.njc.svp.tencent-cloud.com/0bc3reabyaaa24ahktk75frfbcoddseqahaa.f10002.mp4
+林正英 04,https://50069.njc.svp.tencent-cloud.com/0bc34mabyaaat4acczda45rfby6ddtrqahaa.f10002.mp4
+林正英 05,https://50069.njc.svp.tencent-cloud.com/0bc3zeaagaaafmadc73fjvrfbsodapeqaaya.f10002.mp4
+林正英 06,https://50069.njc.svp.tencent-cloud.com/0bc3paab2aaa2qadek3a4frfa6gddv4aahia.f10002.mp4
+林正英 07,https://50069.njc.svp.tencent-cloud.com/0bc3duab2aaay4ahc32755rfahodduoqahia.f10003.mp4
+林正英 08,https://50069.njc.svp.tencent-cloud.com/0b2e2yaaqaaa2aadclla4rrfbvwdbdlaacaa.f10002.mp4
+林正英 09,https://50069.njc.svp.tencent-cloud.com/0bc3miaaaaaaveahir3fmfrfaywdabraaaaa.f10002.mp4
+林正英 10,https://50069.njc.svp.tencent-cloud.com/0bc35uab4aaameaf4vta5jrfb3odd3wqahqa.f10002.mp4
+林正英 11,https://50069.njc.svp.tencent-cloud.com/0bc3cyab4aaawaaolwla4jrfafwddylaahqa.f10002.mp4
+林正英 12,https://50069.njc.svp.tencent-cloud.com/0bc3maabuaaajeaijzk55jrfaygddjqaagqa.f10002.mp4
+林正英 13,https://50069.njc.svp.tencent-cloud.com/0bc3mmaaaaaajeag6y3fmfrfay6dabrqaaaa.f10002.mp4
+林正英 14,https://50069.njc.svp.tencent-cloud.com/0bc3ziabuaaawealhhs54jrfbswddlfaagqa.f10002.mp4
+林正英 15,https://50069.njc.svp.tencent-cloud.com/0bc3amabwaaa4yalto255zrfaa6ddmbqagya.f10002.mp4
+林正英 16,https://50069.njc.svp.tencent-cloud.com/0bc3caabuaaapqal5v254nrfaegddiiaagqa.f10002.mp4
+林正英 17,https://50069.njc.svp.tencent-cloud.com/0bc3yaabyaaauqaccos74zrfbqgddtaaahaa.f10002.mp4
+林正英 18,https://50069.njc.svp.tencent-cloud.com/0b2e4aaacaaaj4aihsdffbrfbygdahqaaaia.f10002.mp4
+林正英 19,https://50069.njc.svp.tencent-cloud.com/0bc3qeabwaaae4afr3s74brfbaoddoaqagya.f10002.mp4
+林正英 20,https://50069.njc.svp.tencent-cloud.com/0bc3fmabuaaaymakwck545rfak6ddivqagqa.f10002.mp4
+林正英 21,https://50069.njc.svp.tencent-cloud.com/0bc32yabuaaazeak7as54jrfbvwddllaagqa.f10002.mp4
+林正英 22,https://50069.njc.svp.tencent-cloud.com/0b2e2iaaoaaadmacup262zrfbuwda7jaabya.f10002.mp4
+林正英 23,https://50069.njc.svp.tencent-cloud.com/0bc3niabwaaajaafmjc74zrfa2wddnvaagya.f10002.mp4
+林正英 24,https://50069.njc.svp.tencent-cloud.com/0bc3gyabwaaaa4aflf2655rfanwddm3aagya.f10003.mp4
+林正英 25,https://50069.njc.svp.tencent-cloud.com/0bc35uabuaaauyacw6k665rfb3oddlwqagqa.f10002.mp4
+林正英 26,https://50069.njc.svp.tencent-cloud.com/0bc3waabyaaa4iaerzs75zrfbmgddsyaahaa.f10002.mp4
+林正英 27,https://50069.njc.svp.tencent-cloud.com/0bc3faabyaaaoqaeko275zrfakgddquaahaa.f10003.mp4
+林正英 28,https://50069.njc.svp.tencent-cloud.com/0bc3cmabyaaayeaekpc74zrfae6ddqjqahaa.f10002.mp4
+林正英 29,https://50069.njc.svp.tencent-cloud.com/0bc3ruabyaaajiagzhc765rfbdoddsgqahaa.f10003.mp4
+林正英 30,https://50069.njc.svp.tencent-cloud.com/0b2e64aaoaaagmafx3k76zrfb56da73qabya.f10002.mp4
+林正英 31,https://50069.njc.svp.tencent-cloud.com/0bc3paab2aaavaacyota4zrfa6gddv4aahia.f10002.mp4
+林正英 32,https://50069.njc.svp.tencent-cloud.com/0b78j4aaeaaauuadixrl6jqvat6dajhqaaqa.f10002.mp4
+林正英 33,https://50069.njc.svp.tencent-cloud.com/0bf2cmaauaaazaadzirl6nqvae6dbijqacqa.f10002.mp4
+林正英 34,https://50069.njc.svp.tencent-cloud.com/0bf27yaa2aaaniaap3bl4nqvb7wdbx7aadia.f10004.mp4
+林正英 35,https://50069.njc.svp.tencent-cloud.com/0bf254aasaaaoqad6arl6vqvb36dbhxqacia.f10003.mp4
+林正英 36,https://50069.njc.svp.tencent-cloud.com/0bf2y4aasaaaleaah7rl6vqvbr6dbhdqacia.f10003.mp4
+林正英 37,https://50069.njc.svp.tencent-cloud.com/0b78siaacaaahiaaxrrl7bqvbewdagjaaaia.f10004.mp4
+林正英 38,https://50069.njc.svp.tencent-cloud.com/0bf26uaa4aaapaadqmjl4nqvb5odb32qadqa.f10003.mp4
+林正英 39,https://50069.njc.svp.tencent-cloud.com/0bf2viaayaaaweadnasq5bqfbkwdbsvaadaa.f10002.mp4
+林正英 40,https://50069.njc.svp.tencent-cloud.com/0bf2iiaayaaaduadxb2q2fqfaqwdbrbaadaa.f10002.mp4
+林正英 41,https://50069.njc.svp.tencent-cloud.com/0bf2pyaayaaa3uaccucq4vqfa7wdbr7aadaa.f10002.mp4
+林正英 42,https://50069.njc.svp.tencent-cloud.com/0bf2iqaa6aaa3ead6d2q3zqfargdb5caadya.f10002.mp4
+林正英 43,https://50069.njc.svp.tencent-cloud.com/0bf26uaa4aaaneacnvkq2zqfb5odb32qadqa.f10002.mp4
+林正英 44,https://50069.njc.svp.tencent-cloud.com/0bf2zyaayaaapaad3ssq2fqfbtwdbthaadaa.f10002.mp4
+林正英 45,https://50069.njc.svp.tencent-cloud.com/0bf22uaawaaakiacgmsq5jqfbvodbpkqacya.f10002.mp4
+林正英 46,https://50069.njc.svp.tencent-cloud.com/0bf2gqaa4aaal4acmisq2zqfangdby2aadqa.f10002.mp4
 备用,#genre#
 CETV-1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV-2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
