@@ -25,7 +25,7 @@
             "name": "🚀饭太硬线路"
         },               
         {
-            "url": "https://d.looks.wang/我爱夜猫子",
+            "url": "https://d.looks.wang/我爱夜猫子",//https://jihulab.com/ymz1231/json/-/raw/main/ymz.txt
             "name": "🚀夜猫子"
         },                                           
         {
@@ -81,7 +81,7 @@
             "name": "🚀香雅情线路"
         },
         {
-            "url": "https://gitee.com/lekanbox/ysc/raw/master/ysc.json",
+            "url": "https://weixine.net/ysc.json",//https://raw.iqiq.io/52670576/tvbox/main/ysc.json
             "name": "🚀运输车"
         },
         {
