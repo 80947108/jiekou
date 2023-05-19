@@ -33,6 +33,10 @@
             "name": "🚀道长线路"
         },
         {
+            "url": "https://hutool.ml/tang",
+            "name": "🚀唐三线路"
+        },
+        {
             "url": "https://tvbox.cainisi.cf",
             "name": "🚀菜妮丝线路"
         },
