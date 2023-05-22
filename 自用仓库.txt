@@ -5,7 +5,7 @@
             "name": "应用多多家庭版"
         },
         {
-            "url": "https://yydsys.top/duo/x.json",
+            "url": "https://yydsys.top/duo/ali",
             "name": "🚀阿里专线"
         }, 
         {
