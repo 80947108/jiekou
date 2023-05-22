@@ -82,11 +82,15 @@
         },
         {
             "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
-            "name": "🚀香雅情线路"
+            "name": "🚀香雅情线路（跑路中）"
         },
         {
             "url": "https://weixine.net/ysc.json",//https://raw.iqiq.io/52670576/tvbox/main/ysc.json
             "name": "🚀运输车"
+        },
+        {
+            "url": "http://rihou.cc:88/荷城茶秀",//https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json
+            "name": "🚀荷城茶秀"
         },
         {
             "url": "https://download.kstore.space/download/2904/258.txt",
