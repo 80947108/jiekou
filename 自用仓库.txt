@@ -17,7 +17,7 @@
             "name": "🚀肥猫线路"
         }, 
         {
-            "url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/龙门影视.json",
+            "url": "https://yydsys.top/duo/lm.json",
             "name": "🚀龙门影视"
         },         
         {
