@@ -5,7 +5,7 @@
             "name": "应用多多家庭版"
         },
         {
-            "url": "https://yydsys.top/duo/ali",
+            "url": "https://yydsys.top/duo/ali",//备用https://gitee.com/lekanbox/App/raw/master/ali.json
             "name": "🚀阿里专线"
         }, 
         {
@@ -21,11 +21,11 @@
             "name": "🚀龙门影视"
         },         
         {
-            "url": "http://饭太硬.ga/tv",
+            "url": "http://饭太硬.top/tv",
             "name": "🚀饭太硬线路"
         },               
         {
-            "url": "https://d.looks.wang/我爱夜猫子",//备用https://jihulab.com/ymz1231/json/-/raw/main/ymz.txt
+            "url": "https://d.looks.wang/我爱夜猫子",//备用https://jihulab.com/ymz1231/json/-/raw/main/ymz.txt//备用1https://download.kstore.space/download/3313/mao/ymz
             "name": "🚀夜猫子"
         },                                           
         {
@@ -33,7 +33,7 @@
             "name": "🚀道长线路"
         },
         {
-            "url": "https://hutool.ml/tang",
+            "url": "https://hutool.ml/tang",//备用https://gh.t4tv.hz.cz/newtang.bmp
             "name": "🚀唐三线路"
         },
         {
@@ -85,7 +85,7 @@
             "name": "🚀香雅情线路（跑路中）"
         },
         {
-            "url": "https://weixine.net/ysc.json",//备用https://raw.kgithub.com/52670576/tvbox/main/ysc.json
+            "url": "https://weixine.net/ysc.json",//备用https://raw.kgithub.com/52670576/tvbox/main/ysc.json//备用1http://rul2oe7c4.bkt.clouddn.com/ysc.json
             "name": "🚀运输车"
         },
         {
@@ -95,6 +95,14 @@
         {
             "url": "https://download.kstore.space/download/2904/258.txt",
             "name": "🚀奇奇乐分享"
+        },
+        {
+            "url": "https://www.lianyingtv.com/fast/fast",
+            "name": "🚀恋影"
+        },
+        {
+            "url": "https://369936.xyz/web119",
+            "name": "🚀春风"
         },
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
