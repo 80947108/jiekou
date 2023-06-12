@@ -89,7 +89,7 @@
             "name": "🚀运输车"
         },
         {
-            "url": "http://rihou.cc:88/荷城茶秀", //备用https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json
+            "url": "http://rihou.cc:88/荷城茶秀", //http://rihou.cc:99/荷城茶秀  //备用https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json
             "name": "🚀荷城茶秀"
         },
         {
