@@ -22,7 +22,7 @@
         },         
         {
             "url": "http://饭太硬.top/tv",
-            "name": "🚀饭太硬线路"
+            "name": "🚀饭太硬"
         },               
         {
             "url": "https://d.looks.wang/我爱夜猫子",//备用https://jihulab.com/ymz1231/json/-/raw/main/ymz.txt//备用1https://download.kstore.space/download/3313/mao/ymz
@@ -91,6 +91,10 @@
         {
             "url": "http://rihou.cc:88/荷城茶秀",//备用https://raw.kgithub.com/XiaoYiChaHang/tvbox/main/ysj.json
             "name": "🚀荷城茶秀"
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米"
         },
         {
             "url": "https://download.kstore.space/download/2904/258.txt",
