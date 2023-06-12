@@ -5,35 +5,35 @@
             "name": "应用多多家庭版"
         },
         {
-            "url": "https://yydsys.top/duo/ali",//备用https://gitee.com/lekanbox/App/raw/master/ali.json
+            "url": "https://yydsys.top/duo/ali", //备用https://gitee.com/lekanbox/App/raw/master/ali.json
             "name": "🚀阿里专线"
-        }, 
+        },
         {
-            "url": "https://raw.kgithub.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
-        }, 
+        },
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "🚀肥猫线路"
-        }, 
+        },
         {
-            "url":  "https://raw.kgithub.com/lmclub/box/main/app/conf/tv.json",//备用https://yydsys.top/duo/lm.json
+            "url": "https://raw.iqiq.io/lmclub/box/main/app/conf/tv.json", //备用https://yydsys.top/duo/lm.json
             "name": "🚀龙门影视"
-        },         
+        },
         {
             "url": "http://饭太硬.top/tv",
             "name": "🚀饭太硬"
-        },               
+        },
         {
-            "url": "https://d.looks.wang/我爱夜猫子",//备用https://jihulab.com/ymz1231/json/-/raw/main/ymz.txt//备用1https://download.kstore.space/download/3313/mao/ymz
+            "url": "https://d.looks.wang/我爱夜猫子", //备用https://jihulab.com/ymz1231/json/-/raw/main/ymz.txt//备用1https://download.kstore.space/download/3313/mao/ymz
             "name": "🚀夜猫子"
-        },                                           
+        },
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
         },
         {
-            "url": "https://hutool.ml/tang",//备用https://gh.t4tv.hz.cz/newtang.bmp
+            "url": "https://hutool.ml/tang", //备用https://gh.t4tv.hz.cz/newtang.bmp
             "name": "🚀唐三线路"
         },
         {
@@ -51,7 +51,7 @@
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬线路"
-        }, 
+        },
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀霜辉月明"
@@ -61,7 +61,7 @@
             "name": "🚀高天流云"
         },
         {
-            "url": "https://raw.kgithub.com/dxawi/0/main/0.json",
+            "url": "https://raw.iqiq.io/dxawi/0/main/0.json",
             "name": "🚀dxawi0线路"
         },
         {
@@ -85,11 +85,11 @@
             "name": "🚀香雅情线路（跑路中）"
         },
         {
-            "url": "https://weixine.net/ysc.json",//备用https://raw.kgithub.com/52670576/tvbox/main/ysc.json//备用1http://rul2oe7c4.bkt.clouddn.com/ysc.json
+            "url": "https://weixine.net/ysc.json", //备用https://raw.iqiq.io/52670576/tvbox/main/ysc.json//备用1http://rul2oe7c4.bkt.clouddn.com/ysc.json
             "name": "🚀运输车"
         },
         {
-            "url": "http://rihou.cc:88/荷城茶秀",//备用https://raw.kgithub.com/XiaoYiChaHang/tvbox/main/ysj.json
+            "url": "http://rihou.cc:88/荷城茶秀", //备用https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json
             "name": "🚀荷城茶秀"
         },
         {
@@ -119,7 +119,7 @@
         {
             "url": "http://tvmvip110.club/tv/box/xc.json",
             "name": "🐹玉玉线路"
-        },        
+        },
         {
             "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "🐹潇洒线路"
@@ -131,7 +131,7 @@
         {
             "url": "http://52bsj.vip:98/wuai",
             "name": "🐹吾爱线路"
-        },          
+        },
         {
             "url": "http://miaotvs.cn/meow",
             "name": "🐹喵影视线路"
@@ -143,7 +143,7 @@
         {
             "url": "https://源享家.ml/45127",
             "name": "🐹源享家线路"
-        }, 
+        },
         {
             "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
             "name": "🐹云星日记"
@@ -167,11 +167,11 @@
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
             "name": "💎不良帅线路"
-        },         
+        },
         {
             "url": "http://www.dmtv.ml/mao/single.json",
             "name": "💎乱世线路"
-        }, 
+        },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
             "name": "💎一影视线路"
@@ -187,7 +187,7 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
             "name": "💎一木线路"
-        },        
+        },
         {
             "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
             "name": "💎kvymin线路"
@@ -205,36 +205,36 @@
             "name": "💎二哈线路"
         },
         {
-            "url": "https://raw.kgithub.com/80947108/-/main/XC.json",
+            "url": "https://raw.iqiq.io/80947108/-/main/XC.json",
             "name": "自用XC"
         },
         {
-            "url": "https://raw.kgithub.com/80947108/py/main/py.json",
+            "url": "https://raw.iqiq.io/80947108/py/main/py.json",
             "name": "自用PY线路"
         },
         {
-            "url": "https://raw.kgithub.com/80947108/feimao/main/jk.json",
+            "url": "https://raw.iqiq.io/80947108/feimao/main/jk.json",
             "name": "自用肥猫"
         },
         {
-            "url": "https://raw.kgithub.com/80947108/JS/main/js.json",
+            "url": "https://raw.iqiq.io/80947108/JS/main/js.json",
             "name": "自用JS"
         },
         {
-            "url": "https://raw.kgithub.com/zhanghong1983/TVBOXZY/main/vip.json",
+            "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/vip.json",
             "name": "自用张弘H"
         },
         {
-            "url": "https://raw.kgithub.com/2hacc/TVBox/main/h/h.json",
+            "url": "https://raw.iqiq.io/2hacc/TVBox/main/h/h.json",
             "name": "自用2哈H"
         },
         {
-            "url": "https://raw.kgithub.com/FongMi/CatVodSpider/main/json/adult.json",
+            "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/adult.json",
             "name": "自用蜂蜜H"
         },
         {
-            "url": "https://raw.kgithub.com/80947108/jiekou/main/jiekou.json",
+            "url": "https://raw.iqiq.io/80947108/jiekou/main/jiekou.json",
             "name": "自用H"
-        }        
-        ]
+        }
+    ]
 }
