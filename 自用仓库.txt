@@ -25,8 +25,12 @@
             "name": "🚀饭太硬"
         },
         {
-            "url": "https://d.looks.wang/我爱夜猫子", //备用https://jihulab.com/ymz1231/json/-/raw/main/ymz.txt备用1https://download.kstore.space/download/3313/mao/ymz备用2https://git.acwing.com/zn777/tvlive/-/raw/main/js/tvmovie
+            "url": "https://s2.pub/xymz", //备用https://jihulab.com/ymz1231/json/-/raw/main/ymz.txt备用1https://download.kstore.space/download/3313/mao/ymz备用2https://git.acwing.com/zn777/tvlive/-/raw/main/js/tvmovie备用3https://d.looks.wang/我爱夜猫子
             "name": "🚀夜猫子"
+        },
+        {
+            "url": "https://s2.pub/shaoer", 
+            "name": "🚀夜猫子少儿"
         },
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
