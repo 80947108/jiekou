@@ -89,7 +89,7 @@
             "name": "🚀香雅情线路（跑路中）"
         },
         {
-            "url": "https://weixine.net/ysc.json", //备用https://ghproxy.com/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json//备用1http://rul2oe7c4.bkt.clouddn.com/ysc.json
+            "url": "https://weixine.net/ysc.json", //备用https://cf.weixine.net/ysc.json
             "name": "🚀运输车"
         },
         {
