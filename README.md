@@ -1,1 +1,1 @@
-https://raw.kgithub.com/80947108/jiekou/main/自用仓库.json
+[https://raw.kgithub.com/80947108/jiekou/main/自用仓库.json](https://ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.json)https://ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.json
